@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(to right, red,blue);
+    color: black;
+}
+h3{
+    font-size: 2em;
+    font-family: 'Segoe UI';
+    border: 2px solid;
+    padding: 10px 15px;
+    -webkit-text-fill-color: limegreen,blue;
+    border-radius: 20px;
+}
